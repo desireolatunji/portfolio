@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Portfolio from "./componet/portfolio";
+import Portfolio from "./components/portfolio";
 
 
 
