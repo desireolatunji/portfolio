@@ -5,8 +5,10 @@ import Portfolio from "./componet/portfolio";
 
 const App=() =>{
   return (
-    
-   <Portfolio />
+    <div>
+            <Portfolio />
+    </div>
+
    
   )
 }
