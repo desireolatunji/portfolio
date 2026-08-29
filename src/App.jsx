@@ -1,6 +1,7 @@
 import Portfolio from "./components/portfolio";
+import "./Portfolio.css";
 
-const App =() => {
+function App() {
   return (
     <div>
       <Portfolio />
