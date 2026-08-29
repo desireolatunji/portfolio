@@ -15,7 +15,7 @@ const  Portfolio=() => {
       </nav>
 
       <section id="home" className="hero">
-        <p>WELCOME TO MY PORTFOLIO</p>
+        <p>WELCOME TO MY PORTFOLIO We will have fun :D</p>
 
         <h1>
           Hi, I'm <span>Deeeboy</span>
