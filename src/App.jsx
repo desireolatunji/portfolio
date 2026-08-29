@@ -1,9 +1,9 @@
 import Portfolio from "./components/portfolio";
-import "./components/Portfolio.css";
-function App() {
+
+const App =() => {
   return (
     <div>
-   <Portfolio/>
+      <Portfolio />
     </div>
   );
 }
