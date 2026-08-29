@@ -1,10 +1,10 @@
-
-
-const  Portfolio=() => {
+const Portfolio = () => {
   return (
     <div className="portfolio">
       <nav className="navbar">
-        <h2>DEEBOY<span>.</span></h2>
+        <h2>
+          DEEBOY<span>.</span>
+        </h2>
 
         <div className="nav-links">
           <a href="#home">Home</a>
@@ -15,7 +15,7 @@ const  Portfolio=() => {
       </nav>
 
       <section id="home" className="hero">
-        <p>WELCOME TO MY PORTFOLIO We will have fun :D</p>
+        <p>WELCOME TO MY PORTFOLIO — We will have fun :D</p>
 
         <h1>
           Hello, I'm <span>Deeeboy</span>
@@ -24,8 +24,8 @@ const  Portfolio=() => {
         <h2>Frontend Developer & Game Creator</h2>
 
         <p className="description">
-          I create modern websites, games and interactive experiences
-          using React and JavaScript.
+          I create modern websites, games and interactive experiences using
+          React and JavaScript.
         </p>
 
         <div className="buttons">
@@ -35,16 +35,20 @@ const  Portfolio=() => {
       </section>
 
       <section id="about" className="section">
-        <h2>About <span>Me</span></h2>
+        <h2>
+          About <span>Me</span>
+        </h2>
 
         <p>
-          I'm a developer who loves creating websites, games and
-          interactive experiences.
+          I'm a developer who loves creating websites, games and interactive
+          experiences.
         </p>
       </section>
 
       <section id="projects" className="section">
-        <h2>My <span>Projects</span></h2>
+        <h2>
+          My <span>Projects</span>
+        </h2>
 
         <div className="projects">
           <div className="project">
@@ -65,17 +69,22 @@ const  Portfolio=() => {
       </section>
 
       <section id="contact" className="contact">
-        <h2>Let's build something <span>awesome.</span></h2>
+        <h2>
+          Let's build something <span>awesome.</span>
+        </h2>
 
-        <p>Thanks for visiting my portfolio bye.</p>
+        <p>Thanks for visiting my portfolio. Bye!</p>
       </section>
 
       <footer>
-        <h3>DEEBOY<span>.</span></h3>
+        <h3>
+          DEEBOY<span>.</span>
+        </h3>
+
         <p>© 2026 Deeeboy</p>
       </footer>
     </div>
   );
-}
+};
 
 export default Portfolio;
