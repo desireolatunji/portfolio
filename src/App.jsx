@@ -1,5 +1,5 @@
 import Portfolio from "./components/Portfolio";
-import "./Portfolio.css";
+import "./portfolio.css";
 
 const App = () => {
   return (
