@@ -1,12 +1,14 @@
 import Portfolio from "./components/portfolio";
 import "./Portfolio.css";
 
-function App() {
+const App=() =>{
   return (
     <div>
+
       <Portfolio />
+      
     </div>
-  );
+  )
 }
 
 export default App;
