@@ -18,7 +18,7 @@ const  Portfolio=() => {
         <p>WELCOME TO MY PORTFOLIO We will have fun :D</p>
 
         <h1>
-          Hi, I'm <span>Deeeboy</span>
+          Hello, I'm <span>Deeeboy</span>
         </h1>
 
         <h2>Frontend Developer & Game Creator</h2>
