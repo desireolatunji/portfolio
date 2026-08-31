@@ -2,7 +2,7 @@ const Portfolio = () => {
 return ( <div className="portfolio"> <nav className="navbar"> <h2>
 DEEBOY<span>.</span> </h2>
 
-```
+
     <div className="nav-links">
       <a href="#home">Home</a>
       <a href="#about">About</a>
