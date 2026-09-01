@@ -61,16 +61,6 @@ DEEBOY<span>.</span> </h2>
           Play FPS 2026 →
         </a>
       </div>
-
-      <div className="project">
-        <h3>⚽ Football 2026</h3>
-        <p>A football game project built with React.</p>
-      </div>
-
-      <div className="project">
-        <h3>🌐 Web Projects</h3>
-        <p>Modern websites and applications.</p>
-      </div>
     </div>
   </section>
 
